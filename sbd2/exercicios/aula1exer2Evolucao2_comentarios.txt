@@ -1,0 +1,9 @@
+aula1exer2Evolucao2_comentarios
+
+colocar setas nos relacionamentos do DER
+colocar unique constraint na tabela telefone_empregado
+colocar `select * from VENDA;` na 1ª query
+tirar a View do Fisico e colocar no Consulta e tirar o `select * from QUANTIDADE_VENDIDA;`
+colocar o `create or replace` na criação da view 
+Ajustar o cabeçalho, colocando o nome do autor antigo
+não colocar `IF NOT` nos scripts

@@ -1,0 +1,6 @@
+indice ordenado denso
+	tem maior custo de armazenamento, tem a maxima performance
+indice ordenado esparso
+	tem menor custo de armazenamento, tem a performance mais distribuida
+
+
